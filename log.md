@@ -19,3 +19,13 @@
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/b36ee5c97ca787729bab7326601b15439cb015b9)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/e90d19cad3cb12561a0a34cce79efb1ec848f188)
+
+### Day 3: July 3, Wednesday
+
+**Today's Progress**: Today, I've learnt about internationalizing by using the "Intl" API. I've solved some not so challenging katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor coding challenge](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: It's been easier today to do the coding and not being distracted by anything. 🎯
+
+**Link(s) to work**:
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/13b0d093bd0fd1bb2223e84e03707118bd1daa3d)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/2396f7393093e3a1495d08054717530bf640cf86)
