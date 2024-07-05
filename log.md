@@ -33,7 +33,7 @@
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/2396f7393093e3a1495d08054717530bf640cf86)
 
 
-### Day 4: July 4, Wednesday
+### Day 4: July 4, Thursday
 
 **Today's Progress**: Today, I've learnt how to work with timers. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
 
@@ -42,3 +42,13 @@
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/444a689b5dc98a46e0b027a4490468bdcd738207)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/af7e41f463917aeb11190ed360faef963383f468)
+
+### Day 5: July 5, Friday
+
+**Today's Progress**: Today, I've learnt about how the DOM works behind the scenes and more ways for selecting, creating, deleting HTML elements using JavaScript. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Got out of schedule because I've been lazy today and forced myself to code only close to the night time, but nevertheless, I managed to stay on track at the cost of ruining my circadian rhythms! 🥴
+
+**Link(s) to work**:
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/ff405bcabf9664bb3fee7dac1985df85efe066aa)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/1842ac8f893af7ede249fe8181aa0c40e76d15a1)
