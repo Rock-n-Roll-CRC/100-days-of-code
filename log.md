@@ -62,3 +62,13 @@
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/150f7c9f8c918ce348caf7360cc5d422225bd25b)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/a9e9a1e7d883b655cd7ea4197b8fd0c282fffe91)
+
+### Day 7: July 7, Sunday
+
+**Today's Progress**: Today, I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Frankly speaking, I haven't been happy with the thought of coding on Sunday, but I don't want to lose my streak, so under the impetus of this stance, I forced myself to code.
+
+**Link(s) to work**:
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/6e85d810196d3db25f2bd2bc921a399cb3240d69)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/c81f1fe29f56bcd515046f2cfd58b277cb5bc7e0)
