@@ -67,7 +67,7 @@
 
 **Today's Progress**: Today, I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
 
-**Thoughts**: Frankly speaking, I haven't been happy with the thought of coding on Sunday, but I don't want to lose my streak, so under the impetus of this stance, I forced myself to code.
+**Thoughts**: Frankly speaking, I haven't been happy with the thought of coding on Sunday, but I don't want to lose my streak, so under the impetus of this stance, I forced myself to code. 😤
 
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/6e85d810196d3db25f2bd2bc921a399cb3240d69)
