@@ -75,7 +75,7 @@
 
 ### Day 8: July 8, Monday
 
-**Today's Progress**: Today, I've learnt about how to get and set styles, attributes and classes using the DOM, I also got familiar with new types of events and event handlers. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+**Today's Progress**: Today, I've learnt about how to get and set styles, attributes and classes using the DOM, I also got familiar with new types of events and event handlers. I've solved some katas on [Codewars](https://www.codewars.com). 〽️
 
 **Thoughts**: Quite a tough day, I've been exhaused and had no energy to code, hopefully the next day will be better. 😵‍💫
 
