@@ -77,7 +77,7 @@
 
 **Today's Progress**: Today, I've learnt about how to get and set styles, attributes and classes using the DOM, I also got familiar with new types of events and event handlers. I've solved some katas on [Codewars](https://www.codewars.com). 〽️
 
-**Thoughts**: Quite a tough day, I've been exhaused and had no energy to code, hopefully the next day will be better. 😵‍💫
+**Thoughts**: Quite a tough day, I've been exhausted  and had no energy to code, hopefully the next day will be better. 😵‍💫
 
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/bd96c3bae7d0cdba90656f608deeaefa4869e035)
