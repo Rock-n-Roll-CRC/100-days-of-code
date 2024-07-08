@@ -72,3 +72,12 @@
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/6e85d810196d3db25f2bd2bc921a399cb3240d69)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/c81f1fe29f56bcd515046f2cfd58b277cb5bc7e0)
+
+### Day 8: July 8, Monday
+
+**Today's Progress**: Today, I've learnt about how to get and set styles, attributes and classes using the DOM, I also got familiar with new types of events and event handlers. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Quite a tough day, I've been exhaused and had no energy to code, hopefully the next day will be better. 😵‍💫
+
+**Link(s) to work**:
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/bd96c3bae7d0cdba90656f608deeaefa4869e035)
