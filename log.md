@@ -81,3 +81,13 @@
 
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/bd96c3bae7d0cdba90656f608deeaefa4869e035)
+
+### Day 9: July 9, Tuesday
+
+**Today's Progress**: Today, I've learnt about event propagation and event delegation. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Still struggling, but today is better than the last 2 days anyway. 📈
+
+**Link(s) to work**:
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/a211c425bf47f637b1bbccbbd5abfb2d4a1987f8)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/f0ef4a792a41f946ab74b95e7b8ceb4aee5a4b8d)
