@@ -100,3 +100,13 @@
 
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/68b9486d65df5ef87c3d6fa347f175520f3fc4b2)
+
+### Day 11: July 11, Thursday
+
+**Today's Progress**: Today, I've learnt about DOM traversing. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Apparently, my project has slowed down. A lot of problems emerge that need to be fixed, but it takes too much time to figure out how. 💀
+
+**Link(s) to work**:
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/fe4b9654a99aa486dc93781f8a565c4ef21255a7)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/86ff79d1a82badaf66ab50c46ef10986dd552447)
