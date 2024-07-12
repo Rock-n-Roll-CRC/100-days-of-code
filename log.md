@@ -110,3 +110,12 @@
 **Link(s) to work**:
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/fe4b9654a99aa486dc93781f8a565c4ef21255a7)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/86ff79d1a82badaf66ab50c46ef10986dd552447)
+
+### Day 12: July 12, Friday
+
+**Today's Progress**: I've worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Worked on the project whole day, feeling much better. ✍️
+
+**Link(s) to work**:
+1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/373ba312eeec25d01f2d72b226126314c475882c)
