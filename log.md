@@ -128,3 +128,12 @@
 
 **Link(s) to work**:
 1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/cccf1b936075450bd3418b7433b7895125b28f71)
+
+### Day 14: July 14, Sunday
+
+**Today's Progress**: I've worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Refactoring code is actually quite satisfying. ♻️
+
+**Link(s) to work**:
+1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/c5e9077e091b121be2ed1b44c1c1a2f706226100)
