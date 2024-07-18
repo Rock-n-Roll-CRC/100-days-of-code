@@ -158,9 +158,9 @@
 
 ### Day 17: July 18, Thursday
 
-**Today's Progress**: I've worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+**Today's Progress**: Today, I've learnt about lazy image loading and lifecycle DOM events. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
 
-**Thoughts**: Today, I've learnt about lazy image loading and lifecycle DOM events. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). 🎯
+**Thoughts**: Feel motivated. Haven't felt this way since last week. 👨‍💻
 
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/256a86e5865fcff9342b0df91ed142047e246e83)
