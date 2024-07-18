@@ -160,8 +160,8 @@
 
 **Today's Progress**: I've worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
 
-**Thoughts**: Finished refactoring my HTML. Took me so little time! 💪
+**Thoughts**: Today, I've learnt about lazy image loading and lifecycle DOM events. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). 🎯
 
-**Link(s) to work**: Today, I've learnt about lazy image loading and lifecycle DOM events. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub).
+**Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/256a86e5865fcff9342b0df91ed142047e246e83)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/9e145f8a854584e71d755ca6b835d1c6077f46a3)
