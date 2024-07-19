@@ -165,3 +165,12 @@
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/256a86e5865fcff9342b0df91ed142047e246e83)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/9e145f8a854584e71d755ca6b835d1c6077f46a3)
+
+### Day 18: July 19, Friday
+
+**Today's Progress**: Today, I've learnt about what OOP paradigm is and its 4 principles. I've solved some katas on [Codewars](https://www.codewars.com). ✅
+
+**Thoughts**: Overall, this day has been ok. Going to work on the project during the next 2 days. 👌
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/6ea8d48bf0c8cdf1398b4a60d3b7b786a5745edb)
