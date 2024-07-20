@@ -174,3 +174,12 @@
 
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/6ea8d48bf0c8cdf1398b4a60d3b7b786a5745edb)
+
+### Day 19: July 20, Saturday
+
+**Today's Progress**: I've worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Done some great work today, feeling great! 🎯
+
+**Link(s) to work**: 
+1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/d3b45f2ab19fdd6fb1dd140af65c5b93c95a1598)
