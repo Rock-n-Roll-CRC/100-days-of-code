@@ -183,3 +183,12 @@
 
 **Link(s) to work**: 
 1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/d3b45f2ab19fdd6fb1dd140af65c5b93c95a1598)
+
+### Day 20: July 21, Sunday
+
+**Today's Progress**: I've worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Decided to learn more about meta tags. The day passed well, no complaints on my side! 🧐
+
+**Link(s) to work**: 
+1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/c705729ca78ba0e1f8b9f47d25c15482b5c0b375)
