@@ -192,3 +192,12 @@
 
 **Link(s) to work**: 
 1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/c705729ca78ba0e1f8b9f47d25c15482b5c0b375)
+
+### Day 21: July 22, Monday
+
+**Today's Progress**: I've learnt about constructor functions, the "new" operator and prototypes. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts** It seems to me I restored my energy, feeling well, still on track. 
+
+**Link(s) to work**: 
+1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/59b702a39e0893521827da115d27a4fde016a951)
