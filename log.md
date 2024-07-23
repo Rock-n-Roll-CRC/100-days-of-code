@@ -206,7 +206,7 @@
 
 **Today's Progress**: I've learnt about the prototype inheritance and the prototype chain. I've solved some katas on [Codewars](https://www.codewars.com). ✅
 
-**Thoughts**: Need to give more attention to the project tomorrow. Gonna work on the architecture.
+**Thoughts**: Need to give more attention to the project tomorrow. Gonna work on the architecture. 🏗️
 
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/4580630e194fee5ad0cccae6b61d8012ee299106)
