@@ -201,3 +201,12 @@
 
 **Link(s) to work**: 
 1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/59b702a39e0893521827da115d27a4fde016a951)
+
+### Day 22: July 23, Tuesday
+
+**Today's Progress**: I've learnt about the prototype inheritance and the prototype chain. I've solved some katas on [Codewars](https://www.codewars.com). ✅
+
+**Thoughts**: Need to give more attention to the project tomorrow. Gonna work on the architecture.
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/4580630e194fee5ad0cccae6b61d8012ee299106)
