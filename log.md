@@ -215,7 +215,7 @@
 
 **Today's Progress**: I've learnt about ES6 classes, access properties and static methods. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
 
-**Thoughts**: Fulfiled the plan, feeling great.
+**Thoughts**: Fulfilled the plan, feeling great.
 
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/1fe2f0753a007362e9fd9e481333f5adcdd8dc34)
