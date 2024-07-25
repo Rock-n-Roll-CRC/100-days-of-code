@@ -220,3 +220,13 @@
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/1fe2f0753a007362e9fd9e481333f5adcdd8dc34)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/7f924ab93863dba8e6cf9b5963e71146efb65f13)
+
+### Day 24: July 25, Thursday
+
+**Today's Progress**: I've learnt about the "Object.create" method and the Inheritance between "classes". I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Done some good amount of work today! I'm pleased. 🧠
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/f8767a7a337ac457f806dc1c945686abed205170)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/8e807a6201c6b73a42b6ac7eb06027a2d90dff93)
