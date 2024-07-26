@@ -235,7 +235,7 @@
 
 **Today's Progress**: I've learnt about class fields and method chaining. I've solved some katas on [Codewars](https://www.codewars.com). ✅
 
-**Thoughts**: Feeling well, got some work to do tomorrow.
+**Thoughts**: Feeling well, got some work to do tomorrow. 🙂
 
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/63c53e4798531855413097b242d4ba0ccd8f2cd4)
