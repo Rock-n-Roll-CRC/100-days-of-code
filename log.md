@@ -230,3 +230,12 @@
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/f8767a7a337ac457f806dc1c945686abed205170)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/8e807a6201c6b73a42b6ac7eb06027a2d90dff93)
+
+### Day 25: July 26, Friday
+
+**Today's Progress**: I've learnt about class fields and method chaining. I've solved some katas on [Codewars](https://www.codewars.com). ✅
+
+**Thoughts**: Feeling well, got some work to do tomorrow.
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/63c53e4798531855413097b242d4ba0ccd8f2cd4)
