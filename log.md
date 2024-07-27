@@ -239,3 +239,12 @@
 
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/63c53e4798531855413097b242d4ba0ccd8f2cd4)
+
+### Day 26: July 27, Saturday
+
+**Today's Progress**: I've solved some katas on [Codewars](https://www.codewars.com). ✅
+
+**Thoughts**: Decided to take some rest. It's weekends! 😄
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/0a2c503806604900dd52fe31bf8cd0af09efc249)
