@@ -257,3 +257,13 @@
 
 **Link(s) to work**: 
 1. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/a6e3e4b21803d96a9bc52d89dad4954f0a77c8a8)
+
+### Day 28: July 29, Monday
+
+**Today's Progress**: I've learnt about the geolocation API and the Leaflet library. I've solved some katas on [Codewars](https://www.codewars.com) and worked on my [Frontend Mentor project](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj/hub). ✅
+
+**Thoughts**: Feeling good, should keep up the pace! 🗿
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/4c9711d4d12e8be0b4f11326da6a59917c53f377)
+2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/773e8a5fbe458d3d02c6345dae267e63b1cbd5bf)
