@@ -267,3 +267,12 @@
 **Link(s) to work**: 
 1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/4c9711d4d12e8be0b4f11326da6a59917c53f377)
 2. [Frontend Mentor Challenge](https://github.com/Rock-n-Roll-CRC/FM-Contact-Form/commit/773e8a5fbe458d3d02c6345dae267e63b1cbd5bf)
+
+### Day 29: July 30, Tuesday
+
+**Today's Progress**: I've continued exploring the Leaflet library. I've solved some katas on [Codewars](https://www.codewars.com). ✅
+
+**Thoughts**: Doing great. Completing 6 codewars challenges a day, instead of regular 3. 🖼️
+
+**Link(s) to work**: 
+1. [Codewars Challenges](https://github.com/Rock-n-Roll-CRC/Codewars-Solutions/commit/df6d9b604051c8bf86528fa9e6ccb4ce95778467)
